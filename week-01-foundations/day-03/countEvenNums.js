@@ -3,8 +3,8 @@ const countEvenNums = (arry) => {
 
     let count = 0;
 
-    for (let i=0;i<arry.length;i++) {
-        if (arry[i] % 2 === 0) {
+    for (let num of arry) {
+        if (num % 2 === 0) {
             count++;
         }
     }
