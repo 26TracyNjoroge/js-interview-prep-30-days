@@ -5,6 +5,7 @@
 - Looping through arrays
 - Counting the number of even numbers in an array
 - Working with reusable functions
+- Working with for of loop that loops through values directly
 
 ## What I struggled with
 - Handling some edge-cases 
