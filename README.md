@@ -19,17 +19,29 @@ js-interview-prep-30-days/
 ├── week-01-foundations/
 │   ├── day-01/
 │   ├── day-02/
-│   └── ...
+│   ├── day-03/
+│   ├── day-04/
+│   ├── day-05/
+│   ├── day-06/
+│   └── day-07/
 │
 ├── week-02-intermediate/
 │   ├── day-08/
 │   ├── day-09/
-│   └── ...
+│   ├── day-10/
+│   ├── day-11/
+│   ├── day-12/
+│   ├── day-13/
+│   └── day-14/
 │
 ├── week-03-algorithms/
 │   ├── day-15/
 │   ├── day-16/
-│   └── ...
+│   ├── day-17/
+│   ├── day-18/
+│   ├── day-19/
+│   ├── day-20/
+│   └── day-21/
 │
 └── week-04-interview-prep/
     ├── mock-interview-01/
